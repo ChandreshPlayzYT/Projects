@@ -1,0 +1,17 @@
+""" Hi everyone I am Chandresh and I make simple projects for begginers in python. Here is my first project
+    this is a Age calculator project hope you liked it """
+
+age = input("Input your birth year: ")
+
+# This line will ask the birth year to find the age.
+
+calc = 2020 - int((age))
+
+# This line will calculate the born year with the present year
+
+
+print("Your present age: ")
+print(calc)
+
+""" Hope you guys liked it Thank you :)
+                                       """
